@@ -7,3 +7,6 @@
    ============================================================ */
 
 /* Global resets and base styles go here as sections are built */
+
+/* ── Footer conflict: hide legacy cb-footer, new footer injected by footer.js ── */
+.cb-footer { display: none !important; }
