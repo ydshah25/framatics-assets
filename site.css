@@ -1,0 +1,9 @@
+/* ============================================================
+   FRAMATICS — site.css
+   Global CSS for the Webflow site. Served via Cloudflare Pages.
+   Referenced in Webflow Project Settings → Custom Code → <head>
+   ALL colors must reference Webflow Variables (var(--...))
+   NO raw hex values allowed.
+   ============================================================ */
+
+/* Global resets and base styles go here as sections are built */
